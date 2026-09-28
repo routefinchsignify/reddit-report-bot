@@ -8,6 +8,11 @@
   <img src="https://img.shields.io/badge/Type-Report+Bot-FF4500?style=for-the-badge&logo=reddit" />
 </p>
 
+
+<p align="center">
+  <img src="https://cdn.simpleicons.org/reddit/FF4500" width="64" height="64" />
+</p>
+
 **🤖 Reddit Report Bot Free** — automated mass-reporting tool for Reddit. Sends reports to Reddit moderation at scale, fully automated. Download for 2026. **No limits. No hidden fees.**
 
 <p align="center">

